@@ -1,0 +1,30 @@
+﻿body
+{
+}
+^StackLayout
+{
+    
+}
+^Label {
+    background-color: darkslategray;
+    font-size: medium;
+    border: solid;
+}
+^Entry {
+    background-color: darkslategray;
+    font-size:medium;
+    border: solid;
+}
+.btnCreate{
+    background-color:forestgreen;
+}
+.btnReturn{
+    background-color:slategray;
+}
+.btnHelp{
+    background-color:dodgerblue;
+}
+.comboBtn {
+    background-color: #4c566a;
+    color: #eceff4;
+}
